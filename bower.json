@@ -1,0 +1,20 @@
+{
+  "name": "angularjs-karma-jasmine-kit",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Dean James <djames@brighttalk.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular-mocks": "^1.5.6"
+  }
+}
